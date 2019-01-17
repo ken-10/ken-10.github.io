@@ -2,15 +2,16 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: Postfix & Prefix Calculator
+permalink: projects/ppcalculator
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2018-10-12
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Java
+  - Calculator
+  - Postfix
+  - Prefix
+summary: I created a calculator that solves prefix and postfix notation math problems using stacks.
 ---
 
 <div class="ui small rounded images">
