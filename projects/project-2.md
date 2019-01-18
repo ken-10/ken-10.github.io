@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/owaj1.JPG
+image: images/photthumb.JPG
 title: Photography
 permalink: projects/photography
 # All dates must be YYYY-MM-DD format!
