@@ -11,7 +11,7 @@ labels:
   - Calculator
   - Postfix
   - Prefix
-summary: I created a calculator that solves prefix and postfix notation math problems using stacks.
+summary: I created a calculator that solves prefix and postfix notation math problems using stacks
 ---
 
 <div class="ui small rounded images">
