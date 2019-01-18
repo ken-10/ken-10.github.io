@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/clgthumb.png
 title: Counter Logic Gaming at PGL NA Minor
-permalink: projects/cotton
+permalink: projects/clg
 # All dates must be YYYY-MM-DD format!
 date: 2017-06-19
 labels:
