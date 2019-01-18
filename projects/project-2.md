@@ -10,7 +10,7 @@ labels:
   - Photography
   - Adobe Lightroom
   
-summary: Pictures I have photographed from my time being alive.
+summary: Pictures I have photographed from my time being alive
 ---
 
 <img class="ui medium right floated rounded image" src="../images/owaj1.JPG">
