@@ -15,7 +15,7 @@ summary: Pictures I have photographed from my time being alive.
 
 <img class="ui medium right floated rounded image" src="../images/owaj1.JPG">
 
-Photography is a hobby I began during my senior year of highschool, the year 2017. I began getting interested in photography after I bought my first camera, Canon T5 rebel, from my friend. Although, it wasn't that great of a camera, it helped me learn the basics of photography. From that day on, I saved up money and bought a camera that was more portable and better. Shortly after, I began adventuring through Oahu and took one of my favorite pictures:
+Photography is a hobby I began during my senior year of highschool, the year 2017. My interest in photography began after I bought my first camera, Canon T5 rebel, from my friend. Although, it wasn't the best camera, it helped me learn the basics of photography. From that day on, I saved up money and bought a camera that was more portable and better. Shortly after, I began adventuring through Oahu and took one of my favorite pictures:
 <div class="ui small rounded images">
   <img class="ui image" src="../images/maunawilli copy.JPG">
 </div>
