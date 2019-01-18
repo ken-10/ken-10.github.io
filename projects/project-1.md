@@ -15,10 +15,10 @@ summary: I created a calculator that solves prefix and postfix notation math pro
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/postfix">
+  <img class="ui image" src="../images/prefix">
+  <img class="ui image" src="../images/">
+  <img class="ui image" src="../images/">
 </div>
 Postfix & Prefix Calculator is an assignment I did for my ICS 211 class ran by Carleton Moore, Fall 2018. This was an individual assignment that required us create a program in Eclipse, that can solve a math equation in postfix or prefix notation using the stack data type in Java. The calculator needed to compute any expression that was a floating point or integer using the +,-,/, or * operator. Negative numbers were ignored in this assignment. The calculator also needed to solve math in the way Java would; if two operands are integers, then it needs to do integer math, else it shall do floating point math.
 
