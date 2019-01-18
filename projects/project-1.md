@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/postfix.png
 title: Postfix & Prefix Calculator
 permalink: projects/ppcalculator
 # All dates must be YYYY-MM-DD format!
