@@ -58,6 +58,8 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "MacOS",
+        "Git/GitHub",
       ]
     }
   ],
@@ -73,7 +75,7 @@
       ]
     }
   ],
-  "work": [
+ /** "work": [
     {
       "company": "",
       "position": "",
@@ -84,7 +86,7 @@
       "highlights": [
       ]
     },
-  ],
+  ],**/
   "volunteer": [
     {
       "organization": "Kahala Nui",
