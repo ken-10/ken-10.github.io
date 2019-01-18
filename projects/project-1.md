@@ -15,8 +15,8 @@ summary: I created a calculator that solves prefix and postfix notation math pro
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/postfix">
-  <img class="ui image" src="../images/prefix">
+  <img class="ui image" src="../images/postfix.png">
+  <img class="ui image" src="../images/prefix.png">
   <img class="ui image" src="../images/">
   <img class="ui image" src="../images/">
 </div>
