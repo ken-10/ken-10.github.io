@@ -10,5 +10,5 @@ labels:
   - Personal Experience
 ---
 
-#First Experience
+**First Experience**
 I haven't touched Javascript until earlier this week. I only started coding a little more than half a year ago and I began with
