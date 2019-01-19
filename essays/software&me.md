@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Software Engineering & Me
+title: The Power of Imagination
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-17
 labels:
