@@ -105,3 +105,6 @@ This person is having issues with the website they are attempting to create and 
 
 ## **Topping it Off**
 Now that you know what makes a question dumb or smart, I hope you become more effective at solving your problems and asking questions. Remember that a solution to your problem exists if it's general, such as, syntax for a new programming language you're learning or how to search through an array. The only time you would need to post a question on a forum such as Stackoverflow is when its very specific like the example I showed in the smart question portion. But having a good question doesn't make it smart, what will make it smart is how you format it. Tell the viewers exactly what you're stuck on and what you did do diagnose it. This proves that you actually put some thought into it. Also, remember to put everything in chronological order beacuse it will only help solve your issue quicker and makes everyone's lives easier and make sure to interact with the people replying to your problem because teamwork makes the dream work!
+
+Source: </i>[Dumb Question](https://stackoverflow.com/questions/54356522/search-for-array-in-another-array)
+Source: </i>[Smart Question](https://stackoverflow.com/questions/54215087/cookies-disappear-after-redirect)
