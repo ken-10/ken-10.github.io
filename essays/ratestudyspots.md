@@ -15,6 +15,15 @@ Students typically limit themselves to only studying consistent locations when t
 ### Solution:
 Create a website that will allow students to post and rate study spots throughout the UH Manoa campus and the surrounding areas so that other students become aware of possible study spots.
 
+## **Mockup page ideas**
+* Landing Page
+* Login/ Logout/ Sign up
+* Profile Page
+* Study Spot Info Page
+* Add/Edit/Delete Study Spot
+* Find Study Spot by Location or Name Page
+
+
 
 
 
