@@ -37,9 +37,12 @@ Users can post a new study spot, edit existing study spot by changing current in
 All study spots are posted and users can filter study spots by location
 
 ## **Use Case Ideas**
-Create a New User:  Landing Page -> Sign Up Page -> Profile Page
-Post a new Study Spot:  Add Study Spot
-Rate/Comment a Study Spot: Find Study Spot by Location or Name Page -> Study Spot Info Page -> Edit Study Spot
+##### Create a New User: 
+Landing Page -> Sign Up Page -> Profile Page
+##### Post a new Study Spot:
+Add Study Spot
+##### Rate/Comment a Study Spot:
+Find Study Spot by Location or Name Page -> Study Spot Info Page -> Edit Study Spot
 
 ## **Beyond The Basics**
 * Add rating system to each study spot
