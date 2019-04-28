@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: 
+title: Recipes for Software Engineers
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-17
 labels:
@@ -11,7 +11,6 @@ labels:
   - Workflow
 ---
 
-# **Recipes for Software Engineers**
 In life we are constantly facing new challenges and our job is to overcome them. Practice makes a perfect solution to a new concept, but repetition is exponentially inefficient over time as one develops their capabilities. Eventually, solving a problem that you are familiar with becomes muscle memory. Despite it being trivial, solving a familiar problem may still take time. As usual, us humans have figured out a way to streamline this process by reusing a previous known solution instead of starting from scratch every time. This method is known as, design patterns. Design patterns are used by software engineers like how chefs use recipes. Recipes are designed to be reused to prevent subtle and/or major changes to the dish that can create problems. These recipes can be used by different chefs and even amateurs to replicate the same dish or make improvements to it. 
 
 <img class="ui small right floated rounded image" src="../images/chefs.jpg">
