@@ -17,7 +17,7 @@ In life we are constantly facing new challenges and our job is to overcome them.
 <img class="ui small right floated rounded image" src="../images/chefs.jpg">
 
 ## **The Big Three**
-Design patterns are templates catered towards commonly occuring problems and can be modified lightly to suit your variation of the problem. These templates are classified into three major categories: creational design patterns, structural design patterns, and behavioral design patterns. <img class="ui small right floated rounded image" src="../images/object pattern.png">
+Design patterns are templates catered towards commonly occuring problems and can be modified lightly to suit your variation of the problem. These templates are classified into three major categories: creational design patterns, structural design patterns, and behavioral design patterns.
 
 #### **Creational Patterns**
 Creational design patterns deal with object creation and attempts to create objects in a manner suitable to the situation. The default form of object creation usually results in design problems or added complexity to the design. Creational design patterns resolves these issues by controlling the object creation. <img class="ui small right floated rounded image" src="../images/object pattern.png">
