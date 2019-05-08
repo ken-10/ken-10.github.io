@@ -22,7 +22,8 @@ Design patterns are templates catered towards commonly occuring problems and can
 Creational design patterns deal with object creation and attempts to create objects in a manner suitable to the situation. The default form of object creation usually results in design problems or added complexity to the design. Creational design patterns resolves these issues by controlling the object creation.<br/> <img class="ui small leftt floated rounded image" src="../images/object pattern.png">
 <br/>
 <br/>
-
+<br/>
+<br/>
 #### **Structural Patterns**
 Structural patterns are design patterns that identify a simple way to discover relationships between entities. For example, when a class functions as an interface to something else, such as a network connection, a file, or any other expensive resource. 
 <img class="ui small right floated rounded image" src="../images/structural pattern.png">
