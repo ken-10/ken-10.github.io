@@ -32,3 +32,4 @@ From this project, I was able to experience how it was working in a team oriente
 <img class="ui image" src="../images/Add reviews.png">
 
 [Organization Github Page](https://ono-manoa-grindz.github.io/)
+
