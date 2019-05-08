@@ -19,7 +19,7 @@ In life we are constantly facing new challenges and our job is to overcome them.
 Design patterns are templates catered towards commonly occuring problems and can be modified lightly to suit your variation of the problem. These templates are classified into three major categories: creational design patterns, structural design patterns, and behavioral design patterns.
 
 #### **Creational Patterns**
-Creational design patterns deal with object creation and attempts to create objects in a manner suitable to the situation. The default form of object creation usually results in design problems or added complexity to the design. Creational design patterns resolves these issues by controlling the object creation. <img class="ui small right floated rounded image" src="../images/object pattern.png">
+Creational design patterns deal with object creation and attempts to create objects in a manner suitable to the situation. The default form of object creation usually results in design problems or added complexity to the design. Creational design patterns resolves these issues by controlling the object creation. <img class="ui small leftt floated rounded image" src="../images/object pattern.png">
 <br/>
 <br/>
 
@@ -30,7 +30,7 @@ Structural patterns are design patterns that identify a simple way to discover r
 <br/>
 
 #### **Behavioral Patterns**
-Behavioral patterns are patterns used to identify common communication patterns between objects and notes these patterns. With this design pattern, it increases the flexibility when initializing this communication. For example, iterators that are used to access elements in an aggregate object. <img class="ui small right floated rounded image" src="../images/behavioral pattern.png">
+Behavioral patterns are patterns used to identify common communication patterns between objects and notes these patterns. With this design pattern, it increases the flexibility when initializing this communication. For example, iterators that are used to access elements in an aggregate object. <img class="ui small left floated rounded image" src="../images/behavioral pattern.png">
 <br/>
 <br/>
 
