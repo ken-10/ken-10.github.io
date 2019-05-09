@@ -15,7 +15,7 @@ labels:
 summary: Web application built for our ICS 314 Final Project that showcases the variety of food vendors in UH Manoa Campus
 ---
 
-## Overview
+## What is Ono Manoa Grindz?
 Ono Manoa Grindz is a web application built to showcase the variety of food vendors operating in UH Manoa Campus. Users of this application are able to view and search for a list of vendors. There is a page for each vendor that displays the operation hours, menu, and reviews. Users may also submit their own review for a vendor.
 
 ## Contributions
