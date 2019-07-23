@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/toptwitchstreams.png
 title: Top Twitch Streams
-permalink: repositories/TopTwitchStreams
+permalink: projects/toptwitchstreams
 # All dates must be YYYY-MM-DD format!
 date: 2019-07-22
 labels:
