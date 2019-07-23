@@ -8,6 +8,8 @@ permalink: repositories/TopTwitchStreams
 date: 2019-07-22
 labels:
   - Javascript
+  - React
+  - Bootstrap
   - Web Development
 summary: A webpage that displays top live streams on Twitch
 ---
