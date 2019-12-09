@@ -19,7 +19,7 @@ This web application allows users to plan their dive sessions through our websit
 Our algorithm implements the PADI table by putting the PADI table data into hash tables.<br/>
 The user interface was created by using Semantic UI React.<br/>
 <br/>
-This web application was created for my ICS 414 project at University of Hawai'i at Manoa, Fall 2019. I was mostly in charge of developing the user interface and the website interaction with the user. 
+This web application was created for my ICS 414 project at University of Hawai'i at Manoa, Fall 2019. I was mostly in charge of developing the user interface and the website interaction with the user.<br/>
 [GitHub Repository](https://github.com/ken-10/SCUBA) <br/>
 [Video Demo of the Web App](https://youtu.be/tZ-_kXJDwho)<br/>
 **Live Website Coming Soon**
