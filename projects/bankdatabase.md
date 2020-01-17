@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/myDiver.jpg
+image: images/bankbase_thumbnail.png
 title: Bank Database Software
-permalink: projects/bank
+permalink: projects/bankdatabase
 # All dates must be YYYY-MM-DD format!
 date: 2020-1-16
 labels:
@@ -26,4 +26,4 @@ Lastly, there was an option to modify the address of an existing account number.
 [GitHub Repository](https://github.com/ken-10/ICS-212-Project-1-Project-2-Bank-Database-) <br/>
 Video Demo (coming soon)<br/>
 <br/>
-<img class="ui image" src="../images/myDiver.jpg">
+<img class="ui image" src="../images/bankdata_thumbnail.png">
