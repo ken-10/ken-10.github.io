@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/bankbase_thumbnail.png
-title: Bank Database Software
+title: Bank Database
 permalink: projects/bankdatabase
 # All dates must be YYYY-MM-DD format!
 date: 2020-1-16
