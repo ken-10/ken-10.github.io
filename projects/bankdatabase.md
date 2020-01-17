@@ -26,4 +26,4 @@ Lastly, there was an option to modify the address of an existing account number.
 [GitHub Repository](https://github.com/ken-10/ICS-212-Project-1-Project-2-Bank-Database-) <br/>
 Video Demo (coming soon)<br/>
 <br/>
-<img class="ui image" src="../images/bankdata_thumbnail.png">
+<img class="ui image" src="../images/bankbase_thumbnail.png">
