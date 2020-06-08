@@ -17,8 +17,8 @@ summary: A financial budgeting web application that focuses on the monthly subsc
 ---
 
 [GitHub Repository](https://github.com/trey-sumida/Valueator) <br/>
-[View the Project on Devpost](https://devpost.com/software/valueator)<br/>
-[Video Demo](https://www.youtube.com/watch?v=czIYX9DYL6A)<br/>
+[View the Project on Devpost](https://devpost.com/software/valueator)<br/><br/>
+[Video Demo](https://www.youtube.com/watch?v=czIYX9DYL6A) (Click link or image below to view)<br/>
 [![Alt text](https://img.youtube.com/vi/czIYX9DYL6A/0.jpg)](https://www.youtube.com/watch?v=czIYX9DYL6A)<br/>
 
 ## Inspiration
