@@ -16,6 +16,8 @@ labels:
 summary: A financial budgeting web application that focuses on the monthly subscription base services, and seeing whether or not it is really worth keeping. This app was submitted for the Hack the Northeast Hackathon hosted on June 5- June 7, 2020.
 ---
 
+## Quick Summary
+Valueator is a financial budgeting web application that focuses on the monthly subscription base services, and seeing whether or not it is really worth keeping. This app was submitted for the Hack the Northeast Hackathon where contestants had 36 hours to submit their application that meets the requirements. <br/><br/>
 [GitHub Repository](https://github.com/trey-sumida/Valueator) <br/>
 [View the Project on Devpost](https://devpost.com/software/valueator)<br/><br/>
 [Video Demo](https://www.youtube.com/watch?v=czIYX9DYL6A) (Click link or image below to view)<br/>
