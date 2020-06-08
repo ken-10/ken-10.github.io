@@ -19,8 +19,9 @@ summary: A financial budgeting web application that focuses on the monthly subsc
 # Valueator
 
 [GitHub Repository](https://github.com/trey-sumida/Valueator) <br/>
-[Video Demo] (https://www.youtube.com/watch?v=czIYX9DYL6A)<br/>
-[View the Project on Devpost] (https://devpost.com/software/valueator)<br/>
+[View the Project on Devpost](https://devpost.com/software/valueator)<br/>
+[Video Demo](https://www.youtube.com/watch?v=czIYX9DYL6A)<br/>
+[![Alt text](https://img.youtube.com/vi/czIYX9DYL6A/0.jpg)](https://www.youtube.com/watch?v=czIYX9DYL6A)<br/>
 
 ## Inspiration
 Every year there are new digital subscription services releasing providing various new things. Paying for these services such as Hulu, Netflix, Disney+ and more can add up in a hurry and who has the time to actually use all those services each month! We as a team wanted to create our own finance tracker that focused on the monthly subscription base services, and seeing whether or not it is really worth it for us to keep. 
