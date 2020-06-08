@@ -36,17 +36,18 @@ Django is a somewhat new experience for our team and we feel that we made a pret
 Our group learned how to product manage by assigning tasks to one another so that we wouldn't conflict with what the other person is working on at the time and kept strong communication throughout development.
 ## What's next for Valueator
 There are a lot of improvements that can be made to Valueator such as suggesting alternatives to certain expenses or possibly having the ability to compare your expenses to others in the same income bracket. A possible feature is where users can link their screen time data from their phones can be used to calculate an accurate hourly cost for digital subscriptions if an phone app version of this were to be created. The room for improvement is endless.
+## Screenshots
 
-##Screenshots
-###Landing Page
+### Landing Page
 <img class="ui image" src="../images/val-home.png">
+<img class="ui image" src="../images/val-home-2.png">
 
-###Budgeting App Page (Monthly Income Stats)
+### Budgeting App Page (Monthly Income Stats)
 <img class="ui image" src="../images/val-income.png">
 
-###List of User's Expenses
+### List of User's Expenses
 <img class="ui image" src="../images/val-list.png">
 
-###Graph of User's Expenses and Savings
+### Graph of User's Expenses and Savings
 <img class="ui image" src="../images/val-graph.png">
 
