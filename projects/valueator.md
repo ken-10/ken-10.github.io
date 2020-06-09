@@ -30,9 +30,9 @@ After putting in your monthly income, and adding your expenses for a month, you 
 ## How we built it
 Valueator was built using the django framework, bootstrap 4, and along with some javascript and jquery. 
 ## Challenges we ran into
-Our biggest challenge was trying to come up with an idea that would separate our product from the rest. This is how we came to the conclusion of focusing on the subscription based services.
+Our biggest challenge was trying to come up with an idea that would separate our product from the rest. This is how we came to the conclusion of focusing on the subscription based services. While we were working on the project, we didn't have a full 36 hours available, as some of us were busy during certain times. We ended up only spending about half of the given time on the project. Thus, we struggled with completing everything we planned to do. We left out certain components, such as an update button and styling a better UI/UX for users.
 ## Accomplishments that we're proud of
-Django is a somewhat new experience for our team and we feel that we made a pretty decent application in the 36 hours we had to work on it.
+Django is a somewhat new experience for our team and we feel that we made a pretty decent application in the 36 hours we had to work on it. 
 ## What we learned
 Our group learned how to product manage by assigning tasks to one another so that we wouldn't conflict with what the other person is working on at the time and kept strong communication throughout development.
 ## What's next for Valueator
