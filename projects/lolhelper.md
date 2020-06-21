@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/val-home.png
+image: images/league_of_legends.jpg
 title: LoLHelper
 permalink: projects/lolhelper
 # All dates must be YYYY-MM-DD format!
