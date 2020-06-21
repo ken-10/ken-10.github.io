@@ -31,4 +31,7 @@ There is a lot of room for this bot to grow as League of Legends has more to it 
 
 ## Screenshot
 
+### Summoner command demonstration
+<img class="ui image" src="../images/lolhelper_demo.png">
+
 
