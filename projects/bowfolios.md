@@ -1,3 +1,18 @@
+---
+layout: project
+type: project
+image: images/
+title: Bowfolios App
+permalink: projects/bowfolios
+# All dates must be YYYY-MM-DD format!
+date: 2020-06-07
+labels:
+  - Flutter
+  - Dart
+  - Firebase
+summary: A mobile app implementation of Bowfolios made by Philip Johnson. This app allows users to view, modify, and search profiles, projects, and interests.
+---
+
 # Table of Contents
 * [Overview](#overview)
 * [Project Links](#links)
