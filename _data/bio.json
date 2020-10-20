@@ -51,6 +51,8 @@
       "keywords": [
         "Java",
         "Javascript",
+        "HTML",
+        "CSS"
       ]
     },
     {
@@ -66,13 +68,29 @@
   "education": [
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2021)",
+      "area": "Computer Science (expected December, 2021)",
       "studyType": "B.S.",
       "startDate": "2017-08-20",
       "endDate": "Present",
       "gpa": "",
       "courses": [
       ]
+    }
+  ],
+  "work": [
+    {
+      "organization": "Ramen Onoya",
+      "position": "Server",
+      "startDate": "2019-08-27",
+      "endDate": "2020-03-28",
+      "summary": "Serve and seat customers",
+    },
+    {
+      "organization": "Moomin Shop Hawaii",
+      "position": "Sales Associate",
+      "startDate": "2018-07-31",
+      "endDate": "2019-10-01",
+      "summary": "Assist and sell products to customers",
     }
   ],
   "volunteer": [
