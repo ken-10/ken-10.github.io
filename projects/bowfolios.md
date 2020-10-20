@@ -53,48 +53,48 @@ The purpose of Milestone 3 is to implement final features and fix bugs. Main goa
 ### Login Page
 The login page is presented to first time users or logged out users when they open the app. They have the option to login with valid credentials or redirect to the sign up page.
 
-<img src='./doc/login_mockup.png'>
+<img src='./images/login_mockup.png'>
 
 ### Sign Up Page
 The sign up page is for first time users who do not have an account. They can create an account by providing a valid email, username, and creating a new password.
 
-<img src='./doc/signup_mockup.png'>
+<img src='./images/signup_mockup.png'>
 
 ### Profiles Page
 The profiles page is presented to returning users when they first open the app. The profile page shows a list of users and the projects 
 and interests associated with each specific user.
 
-<img src='./doc/profile_mockup.png'>
+<img src='./images/profile_mockup.png'>
 
 ### Projects Page
 The projects page shows a list of the projects and the users and interests associated with each specific project.
 
-<img src='./doc/projects_mockup.png'>
+<img src='./images/projects_mockup.png'>
 
 ### Interests Page
 The interests page shows a list of the interests.
 
-<img src='./doc/interests.PNG'>
+<img src='./images/interests.PNG'>
 
 ### Drawer Navigation
 The drawer navigation is used to redirect back home, the users profile page, the add project page, and the search page.
 
-<img src='./doc/nav_mockup.png'>
+<img src='./images/nav_mockup.png'>
 
 ### User Profile Page
 The user profile page allows users to edit their credentials and change their profile picture.
 
-<img src='./doc/user_profile_mockup.png'>
+<img src='./images/user_profile_mockup.png'>
 
 ### Add Project
 The add project page allows users to add a project to the Bowfolios application.
 
-<img src='./doc/add_project.PNG'>
+<img src='./images/add_project.PNG'>
 
 ### Search Page
 The search page filters profiles by interests.
 
-<img src='./doc/search_page.png'>
+<img src='./images/search_page.png'>
 
 <a name="devguide"></a>
 
