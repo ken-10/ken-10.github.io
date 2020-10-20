@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/
+image: images/profile_mockup.png
 title: Bowfolios App
 permalink: projects/bowfolios
 # All dates must be YYYY-MM-DD format!
