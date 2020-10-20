@@ -5,7 +5,7 @@ image: images/profile_mockup.png
 title: Bowfolios App
 permalink: projects/bowfolios
 # All dates must be YYYY-MM-DD format!
-date: 2020-06-07
+date: 2020-10-13
 labels:
   - Flutter
   - Dart
