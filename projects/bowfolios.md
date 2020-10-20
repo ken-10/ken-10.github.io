@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: ../images/bowfolios.png
-title: Bowfolios App
+title: Bowfolios Mobile App
 permalink: projects/bowfolios
 # All dates must be YYYY-MM-DD format!
 date: 2020-10-13
