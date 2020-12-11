@@ -22,7 +22,6 @@ Project CLIO was created as a submission to the [Hawaii Annual Coding Challenge 
 
 # About Project CLIO
 Project CLIO is a web application created with React & Javascript for the front-end and Spring & Java for the back-end of the application. The web application categorizes users into four categories: rookie, indexer, proofer, and archivist. The rookie role is a role every user is assigned when they first sign up and they must go through training of how to index archives. After the tutorial is complete, the are promoted to an indexer. Indexer are regular users that can index archives and do other basic user functions such as edit their profile and view leaderboards. Proofers are users who can proof-read index submissions by indexers and can decide whether the submission passes or not. Archivists are the admins of the website where they can do every function of every user below them and on top of that, they may export submissions in a CSV file, create new archives to be indexed, and categories. Badges and leaderboards are utilized to create a gaming aspect in hopes to encourage users to index archives. Below is a link to a video that shows how the website functions. <br/>
-<img src="../images/PROJECT CLIO.png"><br/>
 
 # Walkthrough
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YdfcoQ9xLtc/0.jpg)](https://www.youtube.com/watch?v=YdfcoQ9xLtc)<br/>
