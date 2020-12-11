@@ -27,10 +27,6 @@ Project CLIO is a web application created with React & Javascript for the front-
 # Walkthrough
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YdfcoQ9xLtc/0.jpg)](https://www.youtube.com/watch?v=YdfcoQ9xLtc)<br/>
 
-# 
-[GitHub](https://github.com/HACC2020/ByteCryb) <br/>
-[Devpost](https://devpost.com/software/project-clio) <br/>
-
 <a name="members"></a>
 # Team Members & Experience
 I was fortunate enough to work with four other hard working individuals listed below.
@@ -47,7 +43,8 @@ Overall, this hackathon was a great learning experience for me. I learned how it
 
 <a name="screenshots"></a>
 # Screenshots
-
+### Login Page
+<img src="../images/clio_home.png"><br/>
 # Links
 [GitHub](https://github.com/HACC2020/ByteCryb) <br/>
 [Devpost](https://devpost.com/software/project-clio) <br/>
