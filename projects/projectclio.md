@@ -45,6 +45,8 @@ Overall, this hackathon was a great learning experience for me. I learned how it
 # Screenshots
 ### Login Page
 <img src="../images/clio_home.png"><br/>
+### Sign up Page
+<img src="../images/clio_signup.png"><br/>
 # Links
 [GitHub](https://github.com/HACC2020/ByteCryb) <br/>
 [Devpost](https://devpost.com/software/project-clio) <br/>
