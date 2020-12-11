@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../images/bowfolios.png
+image: ../images/PROJECT CLIO.png
 title: Project CLIO
 permalink: projects/projectclio
 # All dates must be YYYY-MM-DD format!
